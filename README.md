@@ -31,4 +31,4 @@ You can learn more about Tailwind CSS on the [official website](https://tailwind
 ### Pricing Section
 ![Pricing Section](https://github.com/HasanDireya23/brainwave-website/assets/154442851/6320c143-5215-4eb9-8ce8-b0e9282d42a0)
 
-- **Try it!!** : [Live Demo For Brainwave Website](https://brainwave-website-7ha4ju7bi-hasans-projects-fb9d78f4.vercel.app/#pricing)
+- **Try it!!** : [Live Demo For Brainwave Website](https://brainwave-website-hasans-projects-fb9d78f4.vercel.app)
